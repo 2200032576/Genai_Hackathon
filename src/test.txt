@@ -1,0 +1,9 @@
+Using cached certifi-2025.8.3-py3-none-any.whl (161 kB)
+Using cached pyasn1-0.6.1-py3-none-any.whl (83 KB)
+Using cached pyasn1_modules-0.4.2-py3-none-any.whl (181 KB)
+Installing collected packages: urllib3, pyasn1, protobuf, idna, grpcio, charset_normalizer, certifi, cachetools, rsa,
+requests, pyasn1-modules, proto-plus, googleapis-common-protos, grpcio-status, google-auth, google-api-core, google-cl
+oud-vision
+Successfully installed cachetools-5.5.2 certifi-2025.8.3 charset_normalizer-3.4.3 google-api-core-2.25.1 google-auth-2
+.40.3 google-cloud-vision-3.10.2 googleapis-common-protos-1.70.0 grpcio-1.74.0 grpcio-status-1.74.0 idna-3.10 proto-pl
+us-1.26.1 protobuf-6.32.0 pyasn1-0.6.1 pyasn1-modules-0.4.2 requests-2.32.5 rsa-4.9.1 urllib3-2.5.0
